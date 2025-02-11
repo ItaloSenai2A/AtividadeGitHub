@@ -4,7 +4,6 @@
     {
         public string TesteRayssa { get; set; }
         public int AlteracaoEmanuelly { get; set; }
-
         public int AlteracoesItalo { get; set; }
 
     }
